@@ -2,11 +2,11 @@
 
 
 ## Large language models for evolutionary algorithms
-Romera-Paredes, B., Barekatain, M., Novikov, A., Balog, M., Kumar, M.P., Dupont, E., Ruiz, F.J., Ellenberg, J.S., Wang, P., Fawzi, O., et al.: Mathematical discoveries from program search with large language models. Nature, 1–3 (2023)
++ Romera-Paredes, B., Barekatain, M., Novikov, A., Balog, M., Kumar, M.P., Dupont, E., Ruiz, F.J., Ellenberg, J.S., Wang, P., Fawzi, O., et al.: Mathematical discoveries from program search with large language models. Nature, 1–3 (2023)
 
-Meyerson, E., Nelson, M.J., Bradley, H., Moradi, A., Hoover, A.K., Lehman, J.: Language model crossover: Variation through few-shot prompting. arXiv preprint arXiv:2302.12170 (2023)
++ Meyerson, E., Nelson, M.J., Bradley, H., Moradi, A., Hoover, A.K., Lehman, J.: Language model crossover: Variation through few-shot prompting. arXiv preprint arXiv:2302.12170 (2023)
 
-Liu, S., Chen, C., Qu, X., Tang, K., Ong, Y.-S.: Large language models as evolutionary optimizers. arXiv preprint arXiv:2310.19046 (2023)
++ Liu, S., Chen, C., Qu, X., Tang, K., Ong, Y.-S.: Large language models as evolutionary optimizers. arXiv preprint arXiv:2310.19046 (2023)
 
 Lehman, J., Gordon, J., Jain, S., Ndousse, K., Yeh, C., Stanley, K.O.: In: Banzhaf, W., Machado, P., Zhang, M. (eds.) Evolution Through Large Models, pp. 331–366. Springer, Singapore (2024)
 
