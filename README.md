@@ -48,6 +48,51 @@
   
 + Bradley H., Fan H., Galanos T., et al. The OpenELM Library: Leveraging Progress in Language Models for Novel Evolutionary Algorithms (2023)
 
++ Liu, Fei, et al. "An example of evolutionary computation+ large language model beating human: Design of efficient guided local search." arXiv preprint arXiv:2401.02051 (2024).
+
++ Ye, Haoran, et al. "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution." arXiv preprint arXiv:2402.01145 (2024).
+
++ Li, Xiaoxia, et al. "Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts Against Open-source LLMs." arXiv preprint arXiv:2402.14872 (2024).
+
++ Lange, Robert Tjarko, Yingtao Tian, and Yujin Tang. "Large Language Models As Evolution Strategies." arXiv preprint arXiv:2402.18381 (2024).
+
++ Mercer, Johnathan. "EvoGPT-f: An Evolutionary GPT Framework for Benchmarking Formal Math Languages." arXiv preprint arXiv:2402.16878 (2024).
+
++ Ma, Zeyuan, et al. "LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation." arXiv preprint arXiv:2403.01131 (2024).
+
++ Maddigan, Paula, Andrew Lensen, and Bing Xue. "Explaining genetic programming trees using large language models." arXiv preprint arXiv:2403.03397 (2024).
+
++ Lange, Robert Tjarko, Yingtao Tian, and Yujin Tang. "Evolution Transformer: In-Context Evolutionary Optimization." arXiv preprint arXiv:2403.02985 (2024).
+
++ Morris, Clint, Michael Jurado, and Jason Zutty. "LLM Guided Evolution-The Automation of Models Advancing Models." arXiv preprint arXiv:2403.11446 (2024).
+
++ Shem-Tov, Eliad, and Achiya Elyasaf. "Deep Neural Crossover." arXiv preprint arXiv:2403.11159 (2024).
+
++ Huang, Beichen, et al. "Exploring the True Potential: Evaluating the Black-box Optimization Capability of Large Language Models." arXiv preprint arXiv:2404.06290 (2024).
+
++ Lim, Bryan, Manon Flageat, and Antoine Cully. "Large Language Models as In-context AI Generators for Quality-Diversity." arXiv preprint arXiv:2404.15794 (2024).
+
++ Yao, Yiming, et al. "Evolve Cost-aware Acquisition Functions Using Large Language Models." arXiv preprint arXiv:2404.16906 (2024).
+
++ Shojaee, Parshin, et al. "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models." arXiv preprint arXiv:2404.18400 (2024).
+
++ Song, et al. "Position: Leverage Foundational Models for Black-Box Optimization."	arXiv preprint arXiv:2405.03547 (2024).
+
++ Cai, Jinyu, et al. "Exploring the Improvement of Evolutionary Computation via Large Language Models." arXiv preprint arXiv:2405.02876 (2024).
+
++ Wang, Zeyi, et al. "Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization." arXiv preprint arXiv:2405.05767 (2024).
+
++ Huang, Sen, et al. "When Large Language Model Meets Optimization." arXiv preprint arXiv:2405.10098 (2024).
+
++ Gaier, Adam, et al. "Generative Design through Quality-Diversity Data Synthesis and Language Models." arXiv preprint arXiv:2405.09997 (2024).
+
++ Singh, Gaurav, and Kavitesh Kumar Bali. "Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective." arXiv preprint arXiv:2405.07212 (2024).
+
++ Arora, Akhil, et al. "Fleet of Agents: Coordinated Problem Solving with Large Language Models using Genetic Particle Filtering." arXiv p
+
++ Kramer, Oliver. "Large Language Models for Tuning Evolution Strategies." arXiv preprint arXiv:2405.10999 (2024).
+
+
 ## Evolutionary algorithms For large language models
 + Sun, T., Shao, Y., Qian, H., Huang, X., Qiu, X.: Black-box tuning for language-model-as-a-service. In: International Conference on Machine Learning, pp. 20841–20855 (2022). PMLR
 
@@ -90,6 +135,8 @@
 + Lapid, R., Langberg, R., Sipper, M.: Open sesame! universal black box jailbreaking of large language models. arXiv preprint arXiv:2309.01446 (2023)
 
 + Yu, L., Chen, Q., Lin, J., He, L.: Black-box prompt tuning for vision-language model as a service. In: Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, pp. 1686–1694 (2023)
+
++ Akiba, Takuya, et al. "Evolutionary optimization of model merging recipes." arXiv preprint arXiv:2403.13187 (2024).
 
 **Disclaimer**
 
