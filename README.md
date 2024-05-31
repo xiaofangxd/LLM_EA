@@ -88,7 +88,7 @@
 
 + Singh, Gaurav, and Kavitesh Kumar Bali. "Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective." arXiv preprint arXiv:2405.07212 (2024).
 
-+ Arora, Akhil, et al. "Fleet of Agents: Coordinated Problem Solving with Large Language Models using Genetic Particle Filtering." arXiv p
++ Arora, Akhil, et al. "Fleet of Agents: Coordinated Problem Solving with Large Language Models using Genetic Particle Filtering." arXiv preprint arXiv:2405.06691 (2024).
 
 + Kramer, Oliver. "Large Language Models for Tuning Evolution Strategies." arXiv preprint arXiv:2405.10999 (2024).
 
