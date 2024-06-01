@@ -92,6 +92,10 @@
 
 + Kramer, Oliver. "Large Language Models for Tuning Evolution Strategies." arXiv preprint arXiv:2405.10999 (2024).
 
++ Nie, Allen, et al. "The Importance of Directional Feedback for LLM-based Optimizers." arXiv preprint arXiv:2405.16434 (2024).
+
++ Niki van Stein, Thomas Bäck. "LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics." arXiv preprint arXiv:2405.20132 (2024).
+
 
 ## Evolutionary algorithms For large language models
 + Sun, T., Shao, Y., Qian, H., Huang, X., Qiu, X.: Black-box tuning for language-model-as-a-service. In: International Conference on Machine Learning, pp. 20841–20855 (2022). PMLR
