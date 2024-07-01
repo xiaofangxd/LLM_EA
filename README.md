@@ -96,6 +96,18 @@
 
 + Niki van Stein, Thomas Bäck. "LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics." arXiv preprint arXiv:2405.20132 (2024).
 
++ [Efficient Evolutionary Search Over Chemical Space with Large Language Models](https://arxiv.org/abs/2406.16976)
+
++ [Large Language Models as Surrogate Models in Evolutionary Algorithms- A Preliminary Study](https://arxiv.org/abs/2406.10675)
+
++ [Towards Next Era of Multi-objective Optimization: Large Language Models as Architects of Evolutionary Operators](https://arxiv.org/abs/2406.08987)
+
++ [Accelerating evolutionary exploration through language model-based transfer learning](https://arxiv.org/abs/2406.05436)
+
++ [LLM-POET: Evolving Complex Environments using Large Language Models](https://arxiv.org/abs/2406.04663)
+
++ [A Comparison of Large Language Models and Genetic Programming for Program Synthesis](https://ieeexplore.ieee.org/document/10551744)
+
 
 ## Evolutionary algorithms For large language models
 + Sun, T., Shao, Y., Qian, H., Huang, X., Qiu, X.: Black-box tuning for language-model-as-a-service. In: International Conference on Machine Learning, pp. 20841–20855 (2022). PMLR
@@ -141,6 +153,14 @@
 + Yu, L., Chen, Q., Lin, J., He, L.: Black-box prompt tuning for vision-language model as a service. In: Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, pp. 1686–1694 (2023)
 
 + Akiba, Takuya, et al. "Evolutionary optimization of model merging recipes." arXiv preprint arXiv:2403.13187 (2024).
+
++ [Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/abs/2406.12208)
+
++ [Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model](https://arxiv.org/abs/2406.09143)
+
++ [Assessing the Emergent Symbolic Reasoning Abilities of Llama Large Language Models](https://arxiv.org/abs/2406.06588)
+
++ [REvolve: Reward Evolution with Large Language Models for Autonomous Driving](https://arxiv.org/abs/2406.01309)
 
 **Disclaimer**
 
