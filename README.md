@@ -96,17 +96,17 @@
 
 + Niki van Stein, Thomas Bäck. "LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics." arXiv preprint arXiv:2405.20132 (2024).
 
-+ [Efficient Evolutionary Search Over Chemical Space with Large Language Models](https://arxiv.org/abs/2406.16976)
++ Wang, Haorui, et al. "Efficient Evolutionary Search Over Chemical Space with Large Language Models." arXiv preprint arXiv:2406.16976 (2024).
 
-+ [Large Language Models as Surrogate Models in Evolutionary Algorithms- A Preliminary Study](https://arxiv.org/abs/2406.10675)
++ Hao, Hao, Xiaoqun Zhang, and Aimin Zhou. "Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study." arXiv preprint arXiv:2406.10675 (2024).
 
-+ [Towards Next Era of Multi-objective Optimization: Large Language Models as Architects of Evolutionary Operators](https://arxiv.org/abs/2406.08987)
++ Huang, Yuxiao, et al. "Towards Next Era of Multi-objective Optimization: Large Language Models as Architects of Evolutionary Operators." arXiv preprint arXiv:2406.08987 (2024).
 
-+ [Accelerating evolutionary exploration through language model-based transfer learning](https://arxiv.org/abs/2406.05436)
++ Reissmann, Maximilian, et al. "Accelerating evolutionary exploration through language model-based transfer learning." arXiv preprint arXiv:2406.05166 (2024).
 
-+ [LLM-POET: Evolving Complex Environments using Large Language Models](https://arxiv.org/abs/2406.04663)
++ Aki, Fuma, et al. "LLM-POET: Evolving Complex Environments using Large Language Models." arXiv preprint arXiv:2406.04663 (2024).
 
-+ [A Comparison of Large Language Models and Genetic Programming for Program Synthesis](https://ieeexplore.ieee.org/document/10551744)
++ Sobania, Dominik, et al. "A Comparison of Large Language Models and Genetic Programming for Program Synthesis." IEEE Transactions on Evolutionary Computation (2024).
 
 
 ## Evolutionary algorithms For large language models
@@ -154,13 +154,13 @@
 
 + Akiba, Takuya, et al. "Evolutionary optimization of model merging recipes." arXiv preprint arXiv:2403.13187 (2024).
 
-+ [Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/abs/2406.12208)
++ Du, Guodong, et al. "Knowledge Fusion By Evolving Weights of Language Models." arXiv preprint arXiv:2406.12208 (2024).
 
-+ [Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model](https://arxiv.org/abs/2406.09143)
++ Wong, Melvin, et al. "Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model." arXiv preprint arXiv:2406.09143 (2024).
 
-+ [Assessing the Emergent Symbolic Reasoning Abilities of Llama Large Language Models](https://arxiv.org/abs/2406.06588)
++ Petruzzellis, Flavio, Alberto Testolin, and Alessandro Sperduti. "Assessing the Emergent Symbolic Reasoning Abilities of Llama Large Language Models." arXiv preprint arXiv:2406.06588 (2024).
 
-+ [REvolve: Reward Evolution with Large Language Models for Autonomous Driving](https://arxiv.org/abs/2406.01309)
++ Hazra, Rishi, et al. "REvolve: Reward Evolution with Large Language Models for Autonomous Driving." arXiv preprint arXiv:2406.01309 (2024).
 
 **Disclaimer**
 
@@ -169,4 +169,4 @@ Emails: xiaofengxd@126.com
 
 Authors of scientific papers are encouraged to cite the following paper:
 
-+ Wang Chao, Jiaxuan Zhao, Licheng Jiao, Lingling Li, Fang Liu, Shuyuan Yang. A Match Made in Consistency Heaven: When Large Language Models Meet Evolutionary Algorithms, Arxiv, 2024.
++ Chao, Wang, et al. "When large language models meet evolutionary algorithms." arXiv preprint arXiv:2401.10510 (2024).
