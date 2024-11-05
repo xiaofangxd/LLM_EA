@@ -108,6 +108,8 @@
 
 + Sobania, Dominik, et al. "A Comparison of Large Language Models and Genetic Programming for Program Synthesis." IEEE Transactions on Evolutionary Computation (2024).
 
++ Liu, Fei, et al. "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model." Forty-first International Conference on Machine Learning. 2024.
+
 
 ## Evolutionary algorithms For large language models
 + Sun, T., Shao, Y., Qian, H., Huang, X., Qiu, X.: Black-box tuning for language-model-as-a-service. In: International Conference on Machine Learning, pp. 20841–20855 (2022). PMLR
